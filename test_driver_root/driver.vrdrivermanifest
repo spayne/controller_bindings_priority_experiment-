@@ -1,0 +1,7 @@
+{
+	"alwaysActivate": true,
+	"name" : "controller_bindings_test",
+	"directory" : "",
+	"resourceOnly" : false,
+	"hmd_presence" : []
+}

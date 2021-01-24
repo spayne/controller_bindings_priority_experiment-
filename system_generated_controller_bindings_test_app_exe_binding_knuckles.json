@@ -1,0 +1,31 @@
+{
+   "alias_info" : {},
+   "app_key" : "system.generated.controller_bindings_test_app.exe",
+   "bindings" : {
+      "/actions/default" : {
+         "skeleton" : [
+            {
+               "output" : "/actions/default/in/skeletonrighthand",
+               "path" : "/user/hand/right/input/skeleton/right"
+            }
+         ],
+         "sources" : [
+            {
+               "inputs" : {},
+               "mode" : "none",
+               "path" : "/user/hand/right/input/skeleton/right"
+            },
+            {
+               "inputs" : {},
+               "mode" : "none",
+               "path" : "/user/hand/right/input/skeleton/right"
+            }
+         ]
+      }
+   },
+   "controller_type" : "knuckles",
+   "description" : "",
+   "name" : "My controller_bindings_test_app.exe configuration for Knuckles Controller",
+   "options" : {},
+   "simulated_actions" : []
+}

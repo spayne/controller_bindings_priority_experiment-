@@ -1,0 +1,26 @@
+{
+   "action_sets" : [
+      {
+         "name" : "/actions/default",
+         "usage" : "leftright"
+      }
+   ],
+   "actions" : [
+      {
+         "name" : "/actions/default/in/SkeletonRightHand",
+         "skeleton" : "/skeleton/hand/right",
+         "type" : "skeleton"
+      }
+   ],
+   "default_bindings" : [
+      {
+         "binding_url" : "system_generated_controller_bindings_test_app_exe_binding_knuckles.json",
+         "controller_type" : "knuckles"
+      }
+   ],
+   "localization" : [
+      {
+         "language_tag" : "en"
+      }
+   ]
+}
